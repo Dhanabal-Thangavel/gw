@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2019-12-05T06:27:55Z" finished-at="2019-12-05T06:27:56Z">
+    <groups>
+    </groups>
+    <test name="Sample_Programs" duration-ms="40" started-at="2019-12-05T06:27:55Z" finished-at="2019-12-05T06:27:56Z">
+      <class name="guidewire.SampleProgram">
+        <test-method status="PASS" signature="Sample()[pri:0, instance:guidewire.SampleProgram@2812cbfa]" name="Sample" duration-ms="22" started-at="2019-12-05T11:57:55Z" finished-at="2019-12-05T11:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample -->
+      </class> <!-- guidewire.SampleProgram -->
+    </test> <!-- Sample_Programs -->
+  </suite> <!-- Suite -->
+</testng-results>
